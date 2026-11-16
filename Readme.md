@@ -86,7 +86,7 @@ println!("{:?}", user); // Uses Debug
 ## 🏗️ How to Run
 
 ```bash
-git clone https://github.com/Yuvraj-cyborg/solana-fellowship-notes
+git clone https://github.com/yuvichh/solana-fellowship-notes
 cd solana-fellowship-notes
 cargo run
 ```
